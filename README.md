@@ -7,8 +7,8 @@
 <p id="para" >
 I am a js developer/designer who is working on a lot of projects. I love to design and innovate, If you find me interesting drop me a message on any of my social media and we could have a great talk together.</p>
 
-<div id="projcontainer"  >  
-<b id="projects"  >Projects 🖱️</b>
+
+## Projects 🖱️
 
 <p id="projectpara" >Here is a list of thing I have worked on or which I am currently working!</p>
 
@@ -42,8 +42,8 @@ I am a js developer/designer who is working on a lot of projects. I love to desi
 
 </ul>
 </div>
-<div id="twittercont" >
-<b id="twitterh1" >Follow Me On Twitter</b>
+
+ ## Follow Me On Twitter
 <a href="https://twitter.com/bajpaiharsh244" >
 <img id="twitterimg" src="https://github.com/bajpai244/bajpai244/blob/master/assets/twitter.svg" />
 </a>
@@ -52,7 +52,6 @@ I am a js developer/designer who is working on a lot of projects. I love to desi
 <a href="https://twitter.com/bajpaiharsh244" >My twitter account link.</a></p>
 <img id="twittergif" src="https://github.com/bajpai244/bajpai244/blob/master/assets/twitter.gif"  alt="Twitter Gif" />
 
-</div>
 
 <!--
 
