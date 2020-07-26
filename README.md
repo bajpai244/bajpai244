@@ -2,7 +2,7 @@
 <b id="h1">Hello 👋 My name is Harsh Bajpai</b>
 </div>
 <div class="container" >
- <img  id="avatar"  src='./assets/avatar.png' alt="Twitter" />
+ <img  id="avatar"  src='https://github.com/bajpai244/bajpai244/blob/master/assets/avatar.png' alt="Twitter" />
 </div>
 
 <p id="para" >
@@ -46,12 +46,12 @@ I am a js developer/designer who is working on a lot of projects. I love to desi
 <div id="twittercont" >
 <b id="twitterh1" >Follow Me On Twitter</b>
 <a href="https://twitter.com/bajpaiharsh244" >
-<img id="twitterimg" src="assets/twitter.svg" />
+<img id="twitterimg" src="https://github.com/bajpai244/bajpai244/blob/master/assets/twitter.svg" />
 </a>
 <p id="twitterpara" >I am posting regular content on twitter,follow me on twitter to catch up daily content on tech/design. Twitter is what I use a lot to express myself and is a place to know me more.
 <br/>
 <a href="https://twitter.com/bajpaiharsh244" >My twitter account link.</a></p>
-<img id="twittergif" src="assets/twitter.gif"  alt="Twitter Gif" />
+<img id="twittergif" src="https://github.com/bajpai244/bajpai244/blob/master/assets/twitter.gif"  alt="Twitter Gif" />
 
 </div>
 
