@@ -1,5 +1,5 @@
 <div class="container" >
-# Hello 👋 My name is Harsh Bajpai
+#Hello 👋 My name is Harsh Bajpai
 </div>
 <div class="container" >
  <img  id="avatar"  src='https://github.com/bajpai244/bajpai244/blob/master/assets/avatar.png' alt="Twitter" />
