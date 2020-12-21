@@ -15,26 +15,34 @@ I am a js developer/designer who is working on a lot of projects. I love to desi
 </div>
 
 <div id="listcontainer" >
+
 <ul>
+
+<li>
+ <b> 
+ <a href="https://indiablog.hackclub.com/">Hack Club India BLOG </a>
+ </b>
+ </li>
+
+ <li>
+ <b> 
+ <a href="https://hackbox.hackclub.com/">Hack Box </a>
+ </b>
+ </li>
+
  <li>
  <b>
-<a href="https://github.com/hackclub/hackstore/blob/master/README.md" >Hack Store </a> 
+<a href="https://hackstore.hackclub.com/" >Hack Store </a> 
 </b>
 </li>
  
 <li>
 <b>
- <a href="https://github.com/hackclub/india-site">Hack Club India - Website </a> 
+ <a href="https://india.hackclub.com">Hack Club India - Website </a> 
 </b>
 </li>
  
- <li>
- <b> 
- <a href="https://github.com/hackclub/india-alexa">Hack Club India- Alexa Challenge </a>
- </b>
- </li>
- 
- <li>
+<li>
  <b>
  <a href="https://github.com/bajpai244/Kodkarate">KodKarate </a>
  </b>
