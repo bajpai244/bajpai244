@@ -5,12 +5,12 @@
 </div>
 
 <p id="para" >
-I am a js developer/designer who is working on a lot of projects. I love to design and innovate, If you find me interesting drop me a message on any of my social media and we could have a great talk together.</p>
+I am a blockchain developer who is working on a lot on zero knowledge proofs and blockchain infrastructure building. If you find me interesting drop me a message on any of my social media and I would love to have a talk.</p>
 
 
 ## Projects 🖱️
 
-<p id="projectpara" >Here is a list of thing I have worked on or which I am currently working!</p>
+<p id="projectpara" >Here is a list of thing I have worked on or which I have worked and I am proud of!</p>
 
 </div>
 
