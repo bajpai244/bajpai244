@@ -5,8 +5,21 @@
 </div>
 
 <p id="para" >
-I am a blockchain developer who is working on a lot on zero knowledge proofs and blockchain infrastructure building. If you find me interesting drop me a message on any of my social media and I would love to have a talk.</p>
+I am a blockchain developer who is working on zero knowledge proofs and blockchain infrastructure building. If you find me interesting drop me a message on any of my social media handles and I would love to have a talk.</p>
 
+## Countributions
+
+I have made countributions to some web3 projects:
+<ul>
+<li>
+<a href="https://github.com/OlympusDAO/olympus-contracts/pull/131"> Olympus Dao </a>
+</li>
+
+<li>
+<a href="https://github.com/novifinancial/winterfell/pull/76"> Facebook's Winterfell </a>
+</li>
+
+</ul>
 
 ## Projects 🖱️
 
@@ -18,9 +31,9 @@ I am a blockchain developer who is working on a lot on zero knowledge proofs and
 
 <ul>
 
-<li>
+ <li>
  <b> 
- <a href="https://asiaconf.hackclub.com/">Hack Club Asia Virtual Conf Website </a>
+ <a href="https://hackbox.hackclub.com/">Hack Box </a>
  </b>
  </li>
 
@@ -30,11 +43,6 @@ I am a blockchain developer who is working on a lot on zero knowledge proofs and
  </b>
  </li>
 
- <li>
- <b> 
- <a href="https://hackbox.hackclub.com/">Hack Box </a>
- </b>
- </li>
 
  <li>
  <b>
@@ -42,11 +50,6 @@ I am a blockchain developer who is working on a lot on zero knowledge proofs and
 </b>
 </li>
  
-<li>
-<b>
- <a href="https://india.hackclub.com">Hack Club India - Website </a> 
-</b>
-</li>
  
 <li>
  <b>
