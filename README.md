@@ -14,11 +14,6 @@ I have made countributions to some web3 projects:
 <li>
 <a href="https://github.com/OlympusDAO/olympus-contracts/pull/131"> Olympus Dao </a>
 </li>
-
-<li>
-<a href="https://github.com/novifinancial/winterfell/pull/76"> Facebook's Winterfell </a>
-</li>
-
 </ul>
 
 ## Projects 🖱️
