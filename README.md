@@ -14,6 +14,9 @@ I have made countributions to some web3 projects:
 <li>
 <a href="https://github.com/OlympusDAO/olympus-contracts/pull/131"> Olympus Dao </a>
 </li>
+<li>
+<a href="https://github.com/iden3/snarkjs/pull/146"> snarkjs </a>
+</li>
 </ul>
 
 ## Projects 🖱️
