@@ -1,7 +1,7 @@
 # Hello 👋 My name is Harsh Bajpai
 
 <div class="container" >
- <img  id="avatar"  src='https://avatars.githubusercontent.com/u/41180869?s=400&u=95cd15b51719d1a877d02387f741f34da41cfd0e&v=4' alt="Twitter" />
+ <img  id="avatar"  src='https://avatars.githubusercontent.com/u/41180869?s=400&u=95cd15b51719d1a877d02387f741f34da41cfd0e&v=4' alt="Twitter" width="150px"/>
 </div>
 
 <p id="para" >
