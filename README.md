@@ -5,9 +5,9 @@
 </div>
 
 <p id="para" >
-I am a blockchain developer who is working on zero knowledge proofs and infra. 
+I am a core developer at [Kakarot ZK-EVM](https://kakarot.org), and I work on infra and zero-knowledge proofs. 
 
-I was previosuly part of Polygon Hermez, and was a protocol engineer for Polygon ID { zk-DID solution from Polygon }. These days I am countributing to open-source projects, and working with teams I find interesting.
+I was previously part of Polygon Hermez and was a protocol engineer for Polygon ID { zk-DID solution from Polygon }. These days I am countributing to open-source projects, and working with teams I find interesting.
 
 ## Countributions
 
