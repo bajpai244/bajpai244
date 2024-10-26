@@ -5,9 +5,9 @@
 </div>
 
 <p id="para" >
-I am a core developer at <a href="https://kakarot.org" >Kakarot ZK-EVM</a>, and I work on infra and zero-knowledge proofs. 
+I am a currently a research engineer at <a href="https://fuel.network" >Kakarot ZK-EVM</a>, and I work on scaling research and engineering work. 
 
-I was previously part of Polygon Hermez and was a protocol engineer for Polygon ID { zk-DID solution from Polygon }. These days I am countributing to open-source projects, and working with teams I find interesting.
+I was previously part of Polygon Hermez and was a protocol engineer for Polygon ID { zk-DID solution from Polygon }. These days I am contributing to open-source projects and working with teams I find interesting.
 
 ## Countributions
 
