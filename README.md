@@ -5,7 +5,7 @@
 </div>
 
 <p id="para" >
-I am a currently a research engineer at <a href="https://fuel.network" >Kakarot ZK-EVM</a>, and I work on scaling research and engineering work. 
+I am a currently a research engineer at <a href="https://fuel.network" >Fuel Network</a>, and I work on scaling research and engineering work. 
 
 I was previously part of Polygon Hermez and was a protocol engineer for Polygon ID { zk-DID solution from Polygon }. These days I am contributing to open-source projects and working with teams I find interesting.
 
