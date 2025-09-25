@@ -5,9 +5,9 @@
 </div>
 
 <p id="para" >
-I am a currently a research engineer at <a href="https://fuel.network" >Fuel Network</a>, and I work on scaling research and engineering work. 
+I am a currently a research engineer at <a href="https://aztec.network" >Aztec</a>, and I work on privacy, scaling research and engineering work. 
 
-I was previously part of Polygon Hermez and was a protocol engineer for Polygon ID { zk-DID solution from Polygon }. These days I am contributing to open-source projects and working with teams I find interesting.
+I was previously part of Fuel network as a research engineer, and Polygon Hermez as a protocol engineer for Polygon ID { zk-DID solution from Polygon }. These days, I contribute to open-source projects and work with teams that interest me.
 
 ## Countributions
 
